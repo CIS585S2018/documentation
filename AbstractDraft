@@ -1,0 +1,20 @@
+CIS 585 - Game Engine Design Project
+
+Caleb Compton, Matthew French, Jan Mrazek, Jacob Peyton, Lowell Scott, Pavel Suma, Filip Volf
+Department of Computer Science 
+
+Background and Purpose
+
+The purpose of this project is to study the design of game engines by working with the open-source Godot engine. In this project we tested various aspects of the engine including creating and manipulating scenes, modelling characters, designing levels, and working with physics and lighting. One of the most interesting aspects of this project is the hex-sphere world design, which allows players to traverse the inside of a procedurally generated sphere.
+
+Results 
+The team chose to set the game on the inside of a sphere-like surface because we believed that it would create a unique gameplay experience for players, as well as provide an interesting technical challenge. The hex-sphere design was not our only idea for achieving this result, however. The team initially looked at several different possibilities for creating this effect. Some of the other concepts that we considered were actually projecting a flat model of the maze onto a spherical surface, or modifying the sky-box to give the appearance of being inside a 3 dimensional sphere while actually navigating a flat surface. We chose the hex-sphere design because it actally allows players to traverse the entire inner surface of the sphere, while the other methods would simply create the illusion of a three dimensional shape. 
+
+The hex-sphere design is based off of a combination of hexagons and pentagons which, when arranged properly, form a seamless sphere-like shape similar to a soccer ball. The hex-sphere code that we are using is highly modifiable, and allows the size and number of hexagons to be adjusted while keeping the number of pentagons the same. One of the first challenges of this project was actually generating the hex-sphere itself. Once the sphere model was generated, additional challenges included populating the inside of the sphere with a traversable maze, and modifying gravity in the game so that it is always ralative to the player's location. 
+
+Conclusion 
+
+Recommendations for Future Work 
+
+References 
+Maybe reference original java code for the hex-sphere? 
