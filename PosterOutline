@@ -1,0 +1,24 @@
+The Poster examples that they gave us have three columns. The first column is a list (of important features?), the second column seems to be an
+overall explanation of the system (or at least the major, interesting parts) while the third column could hold images or additional information
+I figure we should plan out the poster first before we actually put it together. Below is a rough idea of how it could be put together. 
+
+Column 1 - List 
+(Heading) Major Features 
+* Procedurally Generated Hex-Sphere 
+* Local gravity + Player orientation 
+* Algorithmic maze generation 
+* First-person shooting mechanics 
+
+Column 2 - 
+(Sub-Heading 1) Hex-Sphere Design 
+  A general explanation of the hex-sphere itself, and the technical challenges thereof 
+  
+ (Sub-Heading 2) - ? 
+  Could talk about other interesting features, such as the maze generation, programming the player character, enemy pathfinding, etc. 
+  
+  Column 3 - Images or additional information 
+  I think we could use this space to show off some of the interesting aspects of the project - we could show images of the hex-sphere, 
+  the mazes, perhaps some of the models that we have created so far. 
+  
+  Once we agree on what the poster should look like, one of us can pop the 3 column template into photoshop or something and put it all 
+  together. 
