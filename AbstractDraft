@@ -22,11 +22,10 @@ The hex-sphere design is based off of a combination of hexagons and pentagons wh
 similar to a soccer ball. The hex-sphere code that we are using is highly modifiable, and allows the size and number of hexagons to be adjusted 
 while keeping the number of pentagons the same. One of the first challenges of this project was actually generating the hex-sphere itself. Once 
 the sphere model was generated, additional challenges included populating the inside of the sphere with a traversable maze, and modifying 
-gravity in the game so that it is always ralative to the player's location. 
+gravity in the game so that it is always relative to the player's location. 
 
 Conclusion 
 
-Recommendations for Future Work 
 
 References 
 Maybe reference original java code for the hex-sphere? 
